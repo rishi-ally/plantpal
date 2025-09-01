@@ -1,0 +1,185 @@
+[
+  {
+    "id": 101,
+    "userId": 1,
+    "image": "/plants/monstera.jpg",
+    "caption": "Just propagated my monstera! 🌿",
+    "description": "Tried water propagation for the first time and it’s already showing roots! Any tips for transitioning to soil?",
+    "date": "2025-07-24T10:15:00Z",
+    "achievements": ["Most Planted User"]
+  },
+  {
+    "id": 102,
+    "userId": 2,
+    "image": "/plants/fern.jpg",
+    "caption": "Fern vibes on a rainy day ☔",
+    "description": "My Boston fern has got too much watered today. pray for her!.",
+    "date": "2025-07-23T14:20:00Z",
+    "achievements": []
+  },
+  {
+    "id": 103,
+    "userId": 3,
+    "image": "/plants/succulent.jpeg",
+    "caption": "My succulent family is growing! 🪴✨",
+    "description": "Added 4 new succulents to my collection. I’m obsessed with how low-maintenance they are!",
+    "date": "2025-07-22T08:45:00Z",
+    "achievements": ["Rare Plant Collector"]
+  },
+  {
+    "id": 104,
+    "userId": 4,
+    "image": "/plants/cactus.webp",
+    "caption": "Cactus bloom season 🌵💚",
+    "description": "First time seeing my cactus bloom in over a year. Nature really be healing 💫",
+    "date": "2025-07-21T16:30:00Z",
+    "achievements": []
+  },
+  {
+    "id": 105,
+    "userId": 5,
+    "image": "/plants/alocasia.jpeg",
+    "caption": "Alocasia leaf flex 🐘💚",
+    "description": "Just wiped down the massive leaves and I swear it’s glowing now. Alocasia supremacy 🫡",
+    "date": "2025-07-20T12:10:00Z",
+    "achievements": ["Most Planted User"]
+  },
+  {
+    "id": 106,
+    "userId": 6,
+    "image": "/plants/philodendron.jpeg",
+    "caption": "Philodendron princess is thriving 👑",
+    "description": "Low light, minimal water, and she still slays. Might chop & prop soon!",
+    "date": "2025-07-19T09:05:00Z",
+    "achievements": []
+  },
+  {
+    "id": 107,
+    "userId": 7,
+    "image": "/plants/pothos.jpeg",
+    "caption": "Pothos vines hitting new lengths 🪴🧵",
+    "description": "These vines are wild. Thinking of hanging them from my ceiling next.",
+    "date": "2025-07-18T18:40:00Z",
+    "achievements": []
+  },
+  {
+    "id": 108,
+    "userId": 8,
+    "image": "/plants/bonsai.jpeg",
+    "caption": "Bonsai trimming day 🪴✂️",
+    "description": "Zen mode activated. Took 30 minutes but she’s now perfectly shaped. 🌳",
+    "date": "2025-07-17T11:25:00Z",
+    "achievements": ["Rare Plant Collector"]
+  },
+  {
+    "id": 109,
+    "userId": 9,
+    "image": "/plants/zzplant.jpeg",
+    "caption": "ZZ plant needs no drama 😎🌿",
+    "description": "Legit forgot to water for two weeks and it still looks like I just bought it. Underrated king.",
+    "date": "2025-07-16T15:50:00Z",
+    "achievements": []
+  },
+  {
+    "id": 110,
+    "userId": 10,
+    "image": "/plants/snakeplant.jpeg",
+    "caption": "Snake plant Sundays 🐍🌱",
+    "description": "Did some light repotting + wiped down leaves. This plant is a chill, clean vibe machine.",
+    "date": "2025-07-15T07:00:00Z",
+    "achievements": ["Most Planted User"]
+  },
+  
+  {
+    "id": 111,
+    "userId": 11,
+    "image": "/plants/stringofpearls.jpeg",
+    "caption": "String of Pearls is vibin' 💎🌱",
+    "description": "Finally nailed the watering schedule. It’s no longer dying dramatically every week.",
+    "date": "2025-07-14T14:45:00Z",
+    "achievements": ["Rare Plant Collector"]
+  },
+  {
+    "id": 112,
+    "userId": 12,
+    "image": "/plants/lily.jpeg",
+    "caption": "Peace Lily blooming again! ✨",
+    "description": "Gave her indirect sunlight and a pep talk, and boom – flowers.",
+    "date": "2025-07-13T11:20:00Z",
+    "achievements": []
+  },
+  {
+    "id": 113,
+    "userId": 13,
+    "image": "/plants/caladium.jpeg",
+    "caption": "Caladium chaos 🩷💚",
+    "description": "These pink leaves are giving flamingo-core. Instant serotonin.",
+    "date": "2025-07-12T09:55:00Z",
+    "achievements": []
+  },
+  {
+    "id": 114,
+    "userId": 14,
+    "image": "/plants/ivy.jpeg",
+    "caption": "My ivy is outta control 🍃😅",
+    "description": "Had to cut back like 3 feet today. Thinking of turning it into a jungle curtain.",
+    "date": "2025-07-11T18:05:00Z",
+    "achievements": ["Most Planted User"]
+  },
+  {
+    "id": 115,
+    "userId": 15,
+    "image": "/plants/fiddle leaf.jpeg",
+    "caption": "FLF finally settled in 🎻🪴",
+    "description": "Moved it to a brighter corner and now she’s growing strong. Took 3 weeks of stress tho 🫠",
+    "date": "2025-07-10T12:15:00Z",
+    "achievements": []
+  },
+  {
+    "id": 116,
+    "userId": 16,
+    "image": "/plants/air.jpeg",
+    "caption": "Air plant goals ✨🌬️",
+    "description": "No soil. No stress. Just a cute lil dude floating on my bookshelf.",
+    "date": "2025-07-09T07:30:00Z",
+    "achievements": ["Rare Plant Collector"]
+  },
+  {
+    "id": 117,
+    "userId": 17,
+    "image": "/plants/oxalis.jpeg",
+    "caption": "Oxalis opened like a butterfly 🦋",
+    "description": "Love how it folds at night and stretches in the morning. Nature’s drama queen.",
+    "date": "2025-07-08T15:40:00Z",
+    "achievements": []
+  },
+  {
+    "id": 118,
+    "userId": 18,
+    "image": "/plants/dragon.jpeg",
+    "caption": "Dragon tree hitting its final form 🐉🌿",
+    "description": "Looks like a medieval plant wizard now. Should I name it?",
+    "date": "2025-07-07T17:10:00Z",
+    "achievements": ["Most Planted User"]
+  },
+  {
+    "id": 119,
+    "userId": 19,
+    "image": "/plants/rubber.jpeg",
+    "caption": "Rubber plant is so glossy rn 💅🌱",
+    "description": "Leaf shine + water = ✨ glow up. Might model it for a skincare ad next tbh.",
+    "date": "2025-07-06T13:50:00Z",
+    "achievements": []
+  },
+  {
+    "id": 120,
+    "userId": 20,
+    "image": "/plants/maranta.jpeg",
+    "caption": "Prayer plant always moving 🙏🌿",
+    "description": "It’s literally like a slow dance in leaf form. Catches light. Changes shape. I’m obsessed.",
+    "date": "2025-07-05T10:00:00Z",
+    "achievements": []
+  }
+
+
+]

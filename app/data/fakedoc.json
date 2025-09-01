@@ -1,0 +1,82 @@
+[
+  {
+    "id": "doc1",
+    "name": "Dr. Flora Green",
+    "specialty": "Succulents & Cacti",
+    "experience": 8,
+    "rating": 4.9,
+    "image": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "id": "doc2",
+    "name": "Dr. Leafy Moss",
+    "specialty": "Indoor Plants",
+    "experience": 5,
+    "rating": 4.7,
+    "image": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "id": "doc3",
+    "name": "Dr. Root Vine",
+    "specialty": "Garden & Outdoor Plants",
+    "experience": 10,
+    "rating": 4.8,
+    "image": "https://i.pravatar.cc/150?img=13"
+  },
+  {
+    "id": "doc4",
+    "name": "Dr. Petal Bloom",
+    "specialty": "Flowering Plants",
+    "experience": 7,
+    "rating": 4.6,
+    "image": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "id": "doc5",
+    "name": "Dr. Stem Sprout",
+    "specialty": "Vegetables & Herbs",
+    "experience": 6,
+    "rating": 4.5,
+    "image": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "id": "doc6",
+    "name": "Dr. Ivy Greenfield",
+    "specialty": "Vines & Climbers",
+    "experience": 9,
+    "rating": 4.8,
+    "image": "https://i.pravatar.cc/150?img=16"
+  },
+  {
+    "id": "doc7",
+    "name": "Dr. Fern Woods",
+    "specialty": "Ferns & Shade Plants",
+    "experience": 4,
+    "rating": 4.4,
+    "image": "https://i.pravatar.cc/150?img=17"
+  },
+  {
+    "id": "doc8",
+    "name": "Dr. Blossom Meadow",
+    "specialty": "Ornamental Plants",
+    "experience": 8,
+    "rating": 4.7,
+    "image": "https://i.pravatar.cc/150?img=18"
+  },
+  {
+    "id": "doc9",
+    "name": "Dr. Thorn Bush",
+    "specialty": "Shrubs & Hedging",
+    "experience": 11,
+    "rating": 4.9,
+    "image": "https://i.pravatar.cc/150?img=19"
+  },
+  {
+    "id": "doc10",
+    "name": "Dr. Petunia Greenleaf",
+    "specialty": "Tropical & Exotic Plants",
+    "experience": 5,
+    "rating": 4.6,
+    "image": "https://i.pravatar.cc/150?img=20"
+  }
+]

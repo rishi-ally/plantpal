@@ -1,0 +1,314 @@
+[
+  {
+    "postId": "post_1",
+    "likes": 128,
+     "userId": "1",
+    "dislikes": 5,
+    "comments": [
+      "Aaryan: Such a cool plant! Where did you get it?",
+      "Sneha: That green is GORGEOUS 🌿",
+      "Dev: Looks like a Monstera—great choice.",
+      "Tara: My grandma used to have this 😭 memories!",
+      "Ravi: Bro is literally raising a rainforest 😂",
+      "Alisha: THIS is the vibe I want for my room.",
+      "Omkar: Looks like it’s thriving!"
+    ]
+  },
+  {
+    "postId": "post_2",
+    "likes": 59,
+     "userId": "2",
+    "dislikes": 11,
+    "comments": [
+      "Isha: I think it’s overwatered bro 😬",
+      "Ritesh: Plant needs therapy fr fr",
+      "Meghna: Still love the pot tho!",
+      "Kunal: Why does it look like it’s judging me?",
+      "Simran: I’d still adopt it 😭",
+      "Rohit: Don’t give up on her!",
+      "Harsh: Sunlight and patience—try that.",
+      "Kavya: Cute lil planty, stay strong!"
+    ]
+  },
+  {
+    "postId": "post_3",
+    "likes": 232,
+     "userId": "3",
+    "dislikes": 2,
+    "comments": [
+      "Naina: Literal jungle goals 🍃",
+      "Ankit: I wanna live in this corner 😍",
+      "Fatima: Bro just dropped the best plant flex of 2025.",
+      "Vikram: Now THIS is a vibe!",
+      "Neha: That texture?? Plantfluencer status.",
+      "Riya: Looks like it drinks Fiji water only 💅",
+      "Abhay: I could stare at this all day.",
+      "Aditi: Adding this to my dream board rn.",
+      "Sohail: 👏👏👏 well done",
+      "Pooja: The plant is thriving like my ex isn’t."
+    ]
+  },
+  {
+    "postId": "post_4",
+    "likes": 41,
+     "userId": "4",
+    "dislikes": 22,
+    "comments": [
+      "Manav: Uhh… okay? 😐",
+      "Deepika: I’m confused, is it dying or thriving?",
+      "Sameer: You tried… I guess 😬",
+      "Lata: Pot is cute tho!",
+      "Nikhil: Please water it 😭",
+      "Snehal: Bold move posting this 😂",
+      "Meera: Aesthetic gone wrong",
+      "Jatin: Give it light. Please.",
+      "Zoya: Baby girl is fighting for her life 💀"
+    ]
+  },
+  {
+    "postId": "post_5",
+    "likes": 92,
+     "userId": "5",
+    "dislikes": 7,
+    "comments": [
+      "Tanvi: Looks like a snake plant! Clean vibes.",
+      "Rahul: Great lighting—makes it pop.",
+      "Irfan: That pot adds so much aesthetic 🔥",
+      "Divya: I want this in my Zoom background.",
+      "Mohit: Clean, classy, green.",
+      "Isha: Straight outta Pinterest.",
+      "Rehaan: This one’s underrated tbh.",
+      "Shreya: Your feed is becoming a greenhouse 😍",
+      "Kiran: Saved this to recreate later.",
+      "Aanya: Minimalist dream."
+    ]
+  },
+    {
+    "postId": "post_6",
+    "likes": 110,
+    "userId": "6",
+    "dislikes": 4,
+    "comments": [
+      "Yash: This plant looks like it journals every morning.",
+      "Tina: Pinterest material for sure ✨",
+      "Gaurav: The pot is giving luxury vibes.",
+      "Payal: My plant wants to be this when it grows up.",
+      "Anjali: Mood = green goddess.",
+      "Siddharth: Peaceful energy in one post.",
+      "Nina: Your home must smell amazing!"
+    ]
+  },
+  {
+    "postId": "post_7",
+    "likes": 37,
+    "userId": "7",
+    "dislikes": 19,
+    "comments": [
+      "Aditya: It’s trying its best 🥲",
+      "Kriti: Might need a little more sunlight, boo.",
+      "Arya: This one’s giving sleepy Sunday energy.",
+      "Jay: I respect the effort 😂",
+      "Rekha: Pot? 10/10. Plant? Needs help 😅",
+      "Vivek: Why does it look like it’s in timeout?",
+      "Neelam: Still better than mine, lol.",
+      "Rohan: Looks like a plant that listens to sad music."
+    ]
+  },
+  {
+    "postId": "post_8",
+    "likes": 185,
+    "userId": "8",
+    "dislikes": 3,
+    "comments": [
+      "Shruti: This should be in a museum.",
+      "Karan: Not just a plant, it’s a lifestyle 🌿",
+      "Preeti: Influencer plant energy fr.",
+      "Ajay: That leaf curl? Art.",
+      "Muskan: Are you a professional plant stylist?!",
+      "Sana: I showed this to my therapist.",
+      "Rishi: Mood booster just looking at it.",
+      "Diya: Clean, green, and serene 💚"
+    ]
+  },
+  {
+    "postId": "post_9",
+    "likes": 69,
+    "userId": "9",
+    "dislikes": 9,
+    "comments": [
+      "Mehul: Slightly chaotic but I like it.",
+      "Rani: It has *personality* ✨",
+      "Kabir: Reminds me of my first plant 💀",
+      "Nikita: Is it okay though? Looks dramatic.",
+      "Shiv: Some plants just want attention.",
+      "Priya: This plant gives 'main character' energy.",
+      "Keshav: I feel like it’s talking to me."
+    ]
+  },
+  {
+    "postId": "post_10",
+    "likes": 140,
+    "userId": "10",
+    "dislikes": 6,
+    "comments": [
+      "Avni: Now THIS is a happy plant.",
+      "Varun: My soul just healed a bit.",
+      "Ritika: This one’s a star 🌟",
+      "Sameera: The symmetry?? Chef’s kiss.",
+      "Deep: You unlocked plant nirvana.",
+      "Leena: This feels like spring in one pic.",
+      "Raj: That’s a plant with good karma.",
+      "Divyansh: Hanging this on my wall."
+    ]
+  },
+    {
+    "postId": "post_6",
+    "userId": "11",
+    "likes": 181,
+    "dislikes": 3,
+    "comments": [
+      "Ayesha: Your plant looks like it just came back from a spa day 💆‍♂️",
+      "Rudra: What fertilizer are you using bro?? It’s glowing!",
+      "Kiara: This one’s definitely a main character.",
+      "Sahil: Leaf game strong.",
+      "Pihu: I’d frame this and hang it in my kitchen.",
+      "Devika: Green goals, fr.",
+      "Lakshya: Tell the plant I said hi 👋"
+    ]
+  },
+  {
+    "postId": "post_7",
+    "userId": "12",
+    "likes": 37,
+    "dislikes": 15,
+    "comments": [
+      "Ishaan: Uh… is it okay? Blink twice if no.",
+      "Ritika: Plant looks like it needs a vacation 😩",
+      "Tanmay: This pot deserves a better life.",
+      "Mehul: Mood = this plant on a Monday.",
+      "Reeva: I want to rescue her.",
+      "Amrita: Some sunlight and she’ll bounce back!",
+      "Kritika: It’s giving ✨struggle vibes✨"
+    ]
+  },
+  {
+    "postId": "post_8",
+    "userId": "13",
+    "likes": 298,
+    "dislikes": 1,
+    "comments": [
+      "Om: You just dropped the Mona Lisa of plants.",
+      "Tanya: Frame this! Like for real.",
+      "Yash: This is straight out of a jungle temple.",
+      "Sara: Plant god approved 🙏",
+      "Pranav: Wait... is this AI-generated? It’s too perfect.",
+      "Lavanya: I showed this to my mom and now she wants one.",
+      "Vanshika: Why is this so calming???"
+    ]
+  },
+  {
+    "postId": "post_9",
+    "userId": "14",
+    "likes": 76,
+    "dislikes": 9,
+    "comments": [
+      "Arjun: The pot is working harder than the plant 😂",
+      "Sneha: Little sad but still cute 🥺",
+      "Zaid: Aesthetic? Yes. Healthy? Hmm...",
+      "Jia: Maybe rotate it for better light?",
+      "Rishi: Don’t give up on her 🪴",
+      "Ira: Needs TLC, not judgment.",
+      "Naman: I believe in this plant’s redemption arc."
+    ]
+  },
+  {
+    "postId": "post_10",
+    "userId": "15",
+    "likes": 143,
+    "dislikes": 4,
+    "comments": [
+      "Kashish: This corner is goals 💚",
+      "Neil: You just started a new trend, I swear.",
+      "Palak: Someone’s definitely a plant whisperer 🌱",
+      "Arya: Love how it matches your vibe.",
+      "Jay: That’s not a plant, that’s a statement piece.",
+      "Bhavna: Nature called, she wants this photo back.",
+      "Vihaan: Your aesthetic is illegal 🔥"
+    ]
+  },
+  {
+    "postId": "post_11",
+    "userId": "16",
+    "likes": 221,
+    "dislikes": 2,
+    "comments": [
+      "Mira: Is this even real?? Looks AI-generated 😳",
+      "Dev: My plant just cried looking at this.",
+      "Kavya: Giving luxury rainforest vibes 🛁",
+      "Rahil: You clearly talk to your plants.",
+      "Zoya: Teach me your ways, sensei 🌿",
+      "Aman: Straight outta Pinterest!",
+      "Dia: Stop it, I’m obsessed."
+    ]
+  },
+  {
+    "postId": "post_12",
+    "userId": "17",
+    "likes": 52,
+    "dislikes": 12,
+    "comments": [
+      "Aarav: I like the effort, not the result 😬",
+      "Nia: She’s trying, okay?? Be kind 😢",
+      "Harsh: Looks like it’s going through a breakup.",
+      "Sana: I want to water it... and hug it.",
+      "Kabir: This plant has ✨potential✨",
+      "Pooja: Rooting for it! (pun intended)",
+      "Ishanvi: Leaf me alone, it's cute!"
+    ]
+  },
+  {
+    "postId": "post_13",
+    "userId": "18",
+    "likes": 167,
+    "dislikes": 6,
+    "comments": [
+      "Simran: Ofc you should name it sarah! 👑",
+      "Rehan: That lighting??? Unreal.",
+      "Tara: GREENY! how about this name???✨",
+      "Vir: She really ate. No crumbs left.",
+      "Kriti: Definitely name it , Check the Dm I send you the names!.",
+      "Neeraj: I can smell the oxygen through the screen.",
+      "Anya: Too big and too cute mama!!!."
+    ]
+  },
+  {
+    "postId": "post_14",
+    "userId": "19",
+    "likes": 89,
+    "dislikes": 10,
+    "comments": [
+      "Yuvraj: Is this a plant or a horror story?",
+      "Ridhi: She's just misunderstood 😩",
+      "Tejas: Needs a therapist AND a gardener.",
+      "Avantika: Water it, not roast it y'all 😭",
+      "Danish: This plant looks like me during finals.",
+      "Misha: Maybe move it near a window?",
+      "Aarohi: Not the best... but at least it's alive."
+    ]
+  },
+  {
+    "postId": "post_15",
+    "userId": "20",
+    "likes": 311,
+    "dislikes": 1,
+    "comments": [
+      "Zara: This one's the Beyonce of houseplants 💅",
+      "Kunal: I thought this was a magazine ad.",
+      "Tanya: Even the pot is slaying.",
+      "Ibrahim: I showed this to my grandma, she cried.",
+      "Naina: BRB making a shrine for this plant.",
+      "Manav: 10/10 would steal.",
+      "Chhavi: It’s serving rainforest realness 🌧️"
+    ]
+  }
+]

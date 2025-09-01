@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "username": "leafy_lover",
+    "email": "leafy_lover@plantpla.com",
+    "avatar": "/avatars/leaf_lover.png"
+  },
+  {
+    "id": 2,
+    "username": "plantdad",
+    "email": "plantdad@plantpla.com",
+    "avatar": "/avatars/image2.jpeg"
+  },
+  {
+    "id": 3,
+    "username": "succulentslay",
+    "email": "succulentslay@plantpla.com",
+    "avatar": "/avatars/image3.jpeg"
+  },
+  {
+    "id": 4,
+    "username": "sproutbabe",
+    "email": "sproutbabe@plantpla.com",
+    "avatar": "/avatars/image4.jpeg"
+  },
+  {
+    "id": 5,
+    "username": "wateringwitch",
+    "email": "wateringwitch@plantpla.com",
+    "avatar": "/avatars/image5.jpeg"
+  },
+  {
+    "id": 6,
+    "username": "pothead",
+    "email": "pothead@plantpla.com",
+    "avatar": "/avatars/image6.jpeg"
+  },
+  {
+    "id": 7,
+    "username": "greenbean",
+    "email": "greenbean@plantpla.com",
+    "avatar": "/avatars/image7.jpeg"
+  },
+  {
+    "id": 8,
+    "username": "chlorophyllqueen",
+    "email": "chlorophyllqueen@plantpla.com",
+    "avatar": "/avatars/image8.jpeg"
+  },
+  {
+    "id": 9,
+    "username": "stemlord",
+    "email": "stemlord@plantpla.com",
+    "avatar": "/avatars/image9.jpeg"
+  },
+  {
+    "id": 10,
+    "username": "soilbro",
+    "email": "soilbro@plantpla.com",
+    "avatar": "/avatars/image10.jpeg"
+  },
+  {
+    "id": 11,
+    "username": "rose_lover",
+    "email": "rose_lover@plantpla.com",
+    "avatar": "/avatars/image2.jpeg"
+  },
+  {
+    "id": 12,
+    "username": "iloveplant",
+    "email": "plantdad@plantpla.com",
+    "avatar": "/avatars/image12.jpeg"
+  },
+  {
+    "id": 13,
+    "username": "plantigo",
+    "email": "succulentslay@plantpla.com",
+    "avatar": "/avatars/image13.jpeg"
+  },
+  {
+    "id": 14,
+    "username": "theseed",
+    "email": "sproutbabe@plantpla.com",
+    "avatar": "/avatars/image14.jpeg"
+  },
+  {
+    "id": 15,
+    "username": "waterking",
+    "email": "wateringwitch@plantpla.com",
+    "avatar": "/avatars/image15.jpeg"
+  },
+  {
+    "id": 16,
+    "username": "jasmine",
+    "email": "pothead@plantpla.com",
+    "avatar": "/avatars/image16.jpeg"
+  },
+  {
+    "id": 17,
+    "username": "greenhat",
+    "email": "greenbean@plantpla.com",
+    "avatar": "/avatars/image17.jpeg"
+  },
+  {
+    "id": 18,
+    "username": "pink_sunflower",
+    "email": "chlorophyllqueen@plantpla.com",
+    "avatar": "/avatars/image2.jpeg"
+  },
+  {
+    "id": 19,
+    "username": "lord_of_rings",
+    "email": "stemlord@plantpla.com",
+    "avatar": "/avatars/image6.jpeg"
+  },
+  {
+    "id": 20,
+    "username": "soilbro_spoilbro",
+    "email": "soilbro@plantpla.com",
+    "avatar": "/avatars/image4.jpeg"
+  }
+]
