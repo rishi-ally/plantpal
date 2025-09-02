@@ -7,15 +7,16 @@ const Page = () => {
 
   const {currentdisplay}=useContext(Mycontext)
 const [isopen,setisopen]=useState(false)
-   const fakecomments = comments1.find(comment => comment.userId == currentdisplay.userId);
-   console.log(fakecomments)
+ 
     if (!currentdisplay) {
     return (
       <div className="text-center text-green-700 mt-10 text-xl">
         Loading your plant vibes... 🌿
       </div>
     );
-  }
+  } 
+   const fakecomments = comments1.find(comment => comment.userId == currentdisplay.userId);
+   console.log(fakecomments)
 
   const {
     avatar,
