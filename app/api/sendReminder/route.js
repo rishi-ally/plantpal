@@ -3,15 +3,14 @@ import admin from 'firebase-admin';
 import path from 'path';
 import { readFileSync } from 'fs';
 
-// 🔐 Initialize Firebase Admin SDK only once
 if (!admin.apps.length) {
-  const serviceAccountPath = path.resolve(process.cwd(), 'app/plant.json');
-
-  const serviceAccount = JSON.parse(readFileSync(serviceAccountPath, 'utf8'));
-
+  console.log(process.env.FIREBASE_PRIVATE_KEY)
   admin.initializeApp({
-    credential: admin.credential.cert(serviceAccount),
-    databaseURL: 'https://plantpal-5600a.firebaseio.com',
+    credential: admin.credential.cert({
+      projectId: process.env.FIREBASE_PROJECT_ID,
+      clientEmail: process.env.FIREBASE_CLIENT_EMAIL,
+      privateKey: process.env.FIREBASE_PRIVATE_KEY.replace(/\\n/g, '\n')
+    })
   });
 }
 
@@ -31,8 +30,8 @@ export async function GET() {
     plantsSnapshot.forEach(doc => {
       const plant = doc.data();
       console.log('abe ae lvde',plant.formdata.date)
-      const lastWatered = new Date(plant.formdata.date); // this works if plant.date is a string like "2025-07-31"
-      // Firestore Timestamp
+      const lastWatered = new Date(plant.formdata.date);
+      
       const freqDays = Number(plant.formdata.freq);
 
       const nextWaterDate = new Date(lastWatered);

@@ -9,17 +9,11 @@ import { useRouter } from 'next/navigation';
 
 const page = () => {
   
-async function deletePlant(plantId) {
-  try {
-    await deleteDoc(doc(db, "plants", plantId));
-    console.log(`Plant ${plantId} deleted ✅`);
-  } catch (error) {
-    console.error("Error deleting plant:", error);
-  }
-}
+
 
 const router=useRouter()
   const [uid,setuid]=useState(null);
+ 
   useEffect(()=>{
 const newuid=localStorage.getItem("uid")
 setuid(newuid)
@@ -106,6 +100,7 @@ await setDoc(doc(db, "tokens",kuchbhi), {
     .then((res) => res.json())
     .then((data) => {
       console.log("Reminder Function Response:", data);
+      router.push('/yourplants')
     })
     .catch((err) => {
       console.error("Error calling reminder function:", err);
