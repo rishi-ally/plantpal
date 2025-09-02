@@ -149,12 +149,13 @@ export default function Page() {
 
   const renderOtherResults = (data) => {
     if (!data?.results || data.results.length <= 1) return null;
+    console.log("sex",data)
     return (
       <div className="mt-4 grid gap-3">
         {data.results.slice(1, 6).map((r, idx) => (
           <div key={idx} className="flex items-center justify-between bg-white/70 p-3 rounded-xl border">
             <div>
-              <div className="text-sm font-semibold text-green-800">{r.scientificName || "Unknown"}</div>
+              <div className="text-sm font-semibold text-green-800">{r.species.scientificName || "Unknown"}</div>
             </div>
             <div className="text-right">
               <div className="text-sm font-bold text-green-900">{Math.round((r.score ?? 0) * 1000) / 10}%</div>
